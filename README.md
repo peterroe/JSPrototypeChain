@@ -171,7 +171,7 @@ let B = BigInt(2E+80)
 let S = Symbol()
 ```
 
-Structure diagram:
+Built-in constructors are almost equivalent to their own declarations:
 
 ```mermaid
 classDiagram
